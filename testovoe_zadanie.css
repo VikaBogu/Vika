@@ -1,0 +1,27 @@
+.dizain{
+	border:1px solid grey;
+	text-align: center;
+}
+.pervoyastr{
+	background: yellow;
+}
+.vtorayastr{
+	background: beige;
+}
+.poslstr{
+	background: lightgray;
+}
+.postcol{
+	background: lightpink;
+}
+h1{
+	text-align: center;
+	margin-bottom: 35px;
+}
+td{
+	font-size: 25px;
+	width: 40px;
+}
+td:hover{
+	background: red;
+}
